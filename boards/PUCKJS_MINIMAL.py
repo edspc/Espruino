@@ -35,6 +35,7 @@ info = {
    'libraries' : [
      'BLUETOOTH',
      'NFC',
+     'NTAG215',
      'NEOPIXEL'
    ],
    'makefile' : [
